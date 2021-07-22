@@ -60,6 +60,6 @@
 
 <hr>
  <h3> Download Lavalink </h3>
- ``` https://ci.fredboat.com/repository/download/Lavalink_Build/.lastSuccessful/Lavalink.jar?guest=1&branch=refs/heads/dev ```
-<li> Put lavalink.jar file in bot's folder like shown in image below.
- <img src="https://media.discordapp.net/attachments/860849679411314708/867695269101174824/Captur.PNG" alt="lavalink file image" style="width:800px;height:800px;">
+ <li> https://ci.fredboat.com/repository/download/Lavalink_Build/.lastSuccessful/Lavalink.jar?guest=1&branch=refs/heads/dev </li> 
+<li> Put lavalink.jar file in bot's folder like shown in image below.</li> 
+ <img src="https://media.discordapp.net/attachments/860849679411314708/867695269101174824/Captur.PNG" style="width:800px;height:800px;">
