@@ -62,4 +62,4 @@
  <h3> Download Lavalink </h3>
  <li> https://ci.fredboat.com/repository/download/Lavalink_Build/.lastSuccessful/Lavalink.jar?guest=1&branch=refs/heads/dev </li> 
 <li> Put lavalink.jar file in bot's folder like shown in image below.</li> 
- <img src="https://cdn.discordapp.com/attachments/834116511005671444/867696808552824832/Captur.PNG" alt="Image" style="width:500px;height:600px;">
+ <img src="https://cdn.discordapp.com/attachments/834116511005671444/867696808552824832/Captur.PNG" alt="Image" style="width:900px;height:1000px;">
