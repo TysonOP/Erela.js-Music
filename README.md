@@ -9,7 +9,8 @@
 <li> <code> Basic </code> </li>
 <hr> 
 <li> <code> All commands </code> </li>
-<pre>'bassboost'
+<pre>
+  'bassboost'
   'botinfo'
   'eval'
   'forward'
@@ -35,7 +36,7 @@
 <hr> 
 <h3> Clone </h3> 
 <li> clone repository </li>
-<pre> git clone  </pre>
+<pre> git clone https://github.com/ThunderTyson/Erela.js-Music.git </pre>
 <hr>
 <h3> install</h3>
 <li> install dependencies </li>
