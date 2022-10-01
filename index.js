@@ -15,7 +15,7 @@ client.embed = MessageEmbed;
 client.formatDuration = require("./formatduration")
 const pre = require('./models/prefix.js')
 
-mongoose.connect("mongodb+srv://Piyush:KG5EQGjL3GoK0K5j@thundercluster.ui9we.mongodb.net/test?retryWrites=true&w=majority" ,
+mongoose.connect("" ,
 {useUnifiedTopology: true,
     useNewUrlParser: true,
     useCreateIndex: true}) ;
